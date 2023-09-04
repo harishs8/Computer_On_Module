@@ -1,1 +1,4 @@
 Record=TopLevelDocument|FileName=Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=RK3399_LPDDR4_Pins.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=SDRAM0.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=SDRAM_1.SchDoc|SheetNumber=3
